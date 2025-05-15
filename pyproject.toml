@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spam_detection"
+version = "0.0.1"
+description = "Using advanced modeling to detect the presence of spam in messaging."
+authors = [{ name = "Dominic Mancini" }]
+
+readme = "README.md"
+classifiers = ["Programming Language :: Python :: 3"]
+requires-python = ">=3.12"
+
+# [tool.pyright]
+# exclude = [".venv"]
+# venvPath = "."
+# venv = ".venv"
