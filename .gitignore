@@ -199,7 +199,22 @@ _notes/
 
 /notebooks
 
+Final.quarto_ipynb
+Makefile
+_freeze/
+_quarto.yml
+eda.py
+inst414_spam_detection.code-workspace
+presentation.qmd
+presi_helper.py
 
+# intermediate files
+reports/Final.html
+reports/Mancini_final_presentation.pdf
+reports/annotated_sprint2.pdf
+reports/presentation/
+run_pipeline.py
+scratch.*
 
 
 
